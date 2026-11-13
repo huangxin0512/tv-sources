@@ -1,0 +1,7 @@
+{
+  "name": "必去影视",
+  "version": 2,
+  "sources": [
+    { "name": "必去影视", "url": "https://www.bixud.com/api.php/provide/vod", "isAdult": false }
+  ]
+}
